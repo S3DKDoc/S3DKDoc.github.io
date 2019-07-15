@@ -1,8 +1,8 @@
 ﻿---
 title: "ALSETLab"
-collection: teaching
+collection: lab
 type: "Undergraduate course"
-permalink: /teaching/ALSETLab-1
+permalink: /lab/ALSETLab
 venue: "Rensselaer Polytechnic Institute "
 date: 2019-07-15
 location: "Troy, US"
