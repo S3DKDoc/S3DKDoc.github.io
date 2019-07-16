@@ -9,6 +9,9 @@ main:
   - title: "ALSETLab"
     url: /lab/    
     
+ - title: "Teaching"
+    url: /teaching/
+
   - title: "Portfolio"
     url: /portfolio/
     
